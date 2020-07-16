@@ -1,0 +1,25 @@
+﻿<RCC>
+    <qresource prefix="/new">
+        <file>image/MagicGril/box.png</file>
+        <file>image/MagicGril/down1.png</file>
+        <file>image/MagicGril/down2.png</file>
+        <file>image/MagicGril/down3.png</file>
+        <file>image/MagicGril/left1.png</file>
+        <file>image/MagicGril/left2.png</file>
+        <file>image/MagicGril/left3.png</file>
+        <file>image/MagicGril/Load.png</file>
+        <file>image/MagicGril/MagicGrill.png</file>
+        <file>image/MagicGril/right1.png</file>
+        <file>image/MagicGril/right2.png</file>
+        <file>image/MagicGril/right3.png</file>
+        <file>image/MagicGril/up1.png</file>
+        <file>image/MagicGril/up2.png</file>
+        <file>image/MagicGril/up3.png</file>
+        <file>image/MagicGril/Wall.png</file>
+        <file>image/congratulation.png</file>
+        <file>image/StartPage.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/stop.mp3</file>
+    </qresource>
+</RCC>
